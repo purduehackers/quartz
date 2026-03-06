@@ -1,6 +1,6 @@
-import { VercelConfig } from "@vercel/config/v1"
+import { VercelConfig } from "@vercel/config/v1";
 
 export const config: VercelConfig = {
   cleanUrls: true,
-  buildCommand: "bun run sync && bun run build",
-}
+  buildCommand: "bun run build",
+};
