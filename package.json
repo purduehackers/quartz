@@ -12,6 +12,11 @@
     "url": "https://github.com/jackyzha0/quartz.git"
   },
   "scripts": {
+    "build": "bun run ./quartz/bootstrap-cli.mjs build",
+    "prebuild": "bun run scripts/sync.ts",
+    "preview": "bun run ./quartz/bootstrap-cli.mjs build --serve",
+    "prepreview": "bun run scripts/sync.ts",
+    "sync": "bun run scripts/sync.ts",
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
@@ -39,7 +44,9 @@
     "@floating-ui/dom": "^1.7.4",
     "@myriaddreamin/rehype-typst": "^0.6.0",
     "@napi-rs/simple-git": "0.1.22",
+    "@rayhanadev/notion-fs": "^0.1.0",
     "@tweenjs/tween.js": "^25.0.0",
+    "@vercel/config": "^0.0.37",
     "ansi-truncate": "^1.4.0",
     "async-mutex": "^0.5.0",
     "chokidar": "^5.0.0",
@@ -98,6 +105,7 @@
     "yargs": "^18.0.0"
   },
   "devDependencies": {
+    "@types/bun": "^1.3.10",
     "@types/d3": "^7.4.3",
     "@types/hast": "^3.0.4",
     "@types/js-yaml": "^4.0.9",
