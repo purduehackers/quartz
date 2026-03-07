@@ -6,7 +6,7 @@ title: "Meta"
 	**Note**:
 	Any documentation in this section will be publicly mirrored to [evergreen.purduehackers.com](https://evergreen.purduehackers.com). Avoid putting internal or private information in pages within this section.
 :::
-## Table of Contents
+<empty-block/>
 <page url="https://www.notion.so/282181f3b6ed80b9aceceab462448fb5">Structure</page>
 <page url="https://www.notion.so/282181f3b6ed80f9a040e5e9708847e2">Locations</page>
 <page url="https://www.notion.so/282181f3b6ed801c8321fa0fd35bfea4">Resources</page>
