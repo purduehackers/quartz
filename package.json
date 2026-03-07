@@ -43,6 +43,7 @@
     "@floating-ui/dom": "^1.7.4",
     "@myriaddreamin/rehype-typst": "^0.6.0",
     "@napi-rs/simple-git": "0.1.22",
+    "@sindresorhus/slugify": "^3.0.0",
     "@tursodatabase/serverless": "^0.2.3",
     "@tweenjs/tween.js": "^25.0.0",
     "@vercel/config": "^0.0.37",

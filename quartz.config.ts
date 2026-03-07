@@ -1,5 +1,5 @@
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
+import { QuartzConfig } from "./quartz/cfg";
+import * as Plugin from "./quartz/plugins";
 
 /**
  * Quartz 4 Configuration
@@ -57,7 +57,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["frontmatter"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -89,9 +89,9 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),
     ],
   },
-}
+};
 
-export default config
+export default config;
