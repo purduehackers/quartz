@@ -16,7 +16,6 @@ Members:
 ## Resources
 \[TODO(@phineas1500): Add resources here\]
 ## Table of Contents
-<page url="https://www.notion.so/282181f3b6ed802882d8ece0bde0cc8c">Fundraising</page>
 <page url="https://www.notion.so/282181f3b6ed80a6af3bda8d1a267453">Marketing</page>
 <page url="https://www.notion.so/282181f3b6ed80b886eadd8a210c92e7">Outreach</page>
 <page url="https://www.notion.so/282181f3b6ed8032ba6bc3a62776d39f">Social</page>
