@@ -4,13 +4,12 @@ title: "Engineering"
 
 This folder contains resources and projects owned by the Engineering Division!
 ## Members
-Division Lead: @stopwatchtt (interim)
+Division Lead: @imthesquid
 Members:
 - @ImTheSquid
-- @stopwatchtt
-- @fizzyapple12
 - @letttttttuce
-- @infinidoge
+- Kian
+- Eric
 ## Resources
 \[TODO(@ImTheSquid): Add resources here\]
 <page url="https://www.notion.so/282181f3b6ed80c6b0a3ed69508b89ae">Projects</page>
