@@ -8,9 +8,9 @@ For simplicity, this guide will assume you are ordering acrylic from Canal Plast
 ---
 ## Acrylic
 Order from [Canal Plastics](https://www.canalplastic.com/). They have a wide variety of colors and finishes available.
-::: callout {icon="💡"}
+<callout icon="💡">
 	If you happen to take a trip to New York, stop by their physical store on Canal St. and buy as many as you can fit in your suitcase. That way you don’t have to pay for shipping, plus they offer student discounts if you buy in person, so all in all it’s a lot cheaper.
-:::
+</callout>
 We typically use 1/8" thick acrylic for our badges. For badge cutting you should purchase either:
 - **2x 12" x 18" sheets** — perfect for 90–110 badges
 - **1x 12" x 18" sheet and 1x 12" x 12" sheet** — perfect for 60–90 badges
