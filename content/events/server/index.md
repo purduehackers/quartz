@@ -36,3 +36,4 @@ The Discord server is organized into several channels. Here are some of the most
 - [**#inbox**](https://discord.com/channels/772576325897945119/1294096220146372639): A place for members to make requests for Vulcan admins.
 - [**#discussion**](https://discord.com/channels/772576325897945119/1294113765842751498): A place for members to talk about Vulcan.
 <page url="https://www.notion.so/309181f3b6ed81348ee5f7fbe079838b">Code of Conduct</page>
+<page url="https://www.notion.so/32f181f3b6ed80eda266d99f9bc80037">Opportunities Partners</page>
