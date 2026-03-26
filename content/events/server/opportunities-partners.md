@@ -2,73 +2,74 @@
 title: "Opportunities Partners"
 ---
 
-This document details high-level guidelines all our external partners posting into #opportunities should follow :)
-## Philosophy**worth their time.**
-Purdue Hackers is a place for people who build.
-Most people here are already working on something — a project, a prototype, an idea they can’t quite let go of. They’re not looking for things to attend just for the sake of it. They’re looking for things that make what they’re already doing more interesting, more ambitious, or more real.
-Because of that, attention here is scarce and valuable.
-When something gets shared into this community, it’s implicitly endorsed as worth that attention. That’s the bar. Not “is this generally good,” but “is this worth interrupting someone who’s in the middle of building something.”
-We don’t think of this as a distribution channel. We think of it as a filter.
-## **Who This Community Is**
-- People actively working on projects (software, hardware, art, research, etc.)
-- People looking for collaborators, tools, and opportunities to build more
-- People who care about craft, not just outcomes
-This is not a passive audience. If something is shared here, it should feel relevant to someone who is already building.
-## What Good Posts Look Like
-Good posts are:
-**1. Relevant to builders**
-- Hackathons, technical events, workshops
-- Tools, platforms, APIs people can build with
-- Opportunities to ship (grants, fellowships, internships with real ownership)
-- Interesting technical talks or problems
-**2. Concrete**
-- What is it?
-- Why should someone care?
-- What do they get out of it?
-**3. Respectful of attention**
-- Short, clear, no fluff
-- Gets to the point quickly
-- Doesn’t oversell
-**4. Honest**
-- No hype-y marketing language
-- No vague promises
-- Say what it actually is
-**5. Builder-first framing**
-- Emphasize what people can *do*, not just attend
-- Show the substance (what gets built, learned, or unlocked)
-## What Posts Should NOT Do
-Posts will be removed if they:
-**1. Feel like marketing**
-- Buzzwords, corporate tone, or heavy branding
-- Reads like an ad instead of a recommendation
-**2. Are not relevant**
-- Generic campus events
-- Resume workshops/info sessions with no real substance
-- Anything that doesn’t connect to building or creating
-**3. Are vague**
-- “Exciting opportunity!!!” with no real details
-- Unclear outcomes or expectations
-**4. Waste attention**
-- Too long without saying anything meaningful
-- Overly repetitive or spammy
-**5. Extract without giving**
-- Pure recruiting with no value to the community
-- “Apply here” with no context or benefit
-## Simple Heuristic
-Before posting, ask:
-> **Would a hacker stop what they’re doing to check this out?**
-If not, it probably shouldn’t be posted.
-## Examples
-**Good**
-- “We’re hosting a build-focused hackathon this weekend: \$5k in hardware grants, open lab space, and mentors from X working on Y problems.”
-- “We built an API for ___ — free credits for students, would love to see what people make with it.”
-**Bad**
-- “Join us for an exciting info session to learn more about our company!”
-- “We’re thrilled to announce an incredible opportunity!!!”
-## Final Note
-Access to this community is high-leverage.
-If you respect that, your posts will do well here.
-If not, they won’t land, and may be removed without notice.
-We highly recommend reaching out to us via DM’s (shoot @rayhanadev a message) and talk through what you’d like to post, happy to share pointers on what will land with the community :)
-<empty-block/>
-<empty-block/>
+## Philosophy
+Purdue Hackers is a community of people who are actively building things.
+Most members are working on projects in their free time, software, hardware, art, research, etc. They’re not looking for general campus announcements. They’re looking for things that are directly useful, interesting, or relevant to what they’re already doing.
+Because of that, we try to keep the overall signal high. When something is shared with the community, it should feel intentional. Not just broadcasted.
+This document is meant to help you shape posts so they land well here.
+## What Fits Well
+Posts tend to do well when they clearly connect to people who are already building.
+This often includes:
+- Hands-on events (hackathons, workshops, build nights)
+- Tools, APIs, or platforms people can use in projects
+- Opportunities where participants are actually building or shipping something
+- Technical talks focused on real systems, problems, or lessons learned
+The common thread is that it adds something real: time, knowledge, access, or capability.
+## How to Write a Good Post
+The most effective posts are clear and direct.
+A good structure:
+- What is this?
+- Who is it for?
+- What will they get out of it?
+Keep it short and concrete. Avoid extra framing.
+Posts tend to land well when they:
+- Get to the point quickly
+- Include key details (what, when, where)
+- Clearly explain the value
+- Emphasize what someone can *do* or *learn*
+It should feel like a useful heads-up, not a broad announcement.
+## Tone
+Use a straightforward, neutral tone.
+Avoid:
+- Overly promotional or hype-heavy language
+- Buzzwords or corporate phrasing
+- Vague claims (“exciting opportunity”, “learn more”, etc.)
+People here respond best to clarity and specificity.
+To keep noise low and avoid unnecessary notifications:
+- Do not ping roles (e.g. @everyone, @here, or specific roles)
+- Do not repeatedly repost the same message
+- **YOU WILL BE BANNED IMMEDIATELY IF YOU DO EITHER OF THESE. NO EXCEPTIONS.**
+## What Doesn’t Work Well
+Posts tend to be less effective (and may be declined) if they:
+- Are written for a general student audience without adjustment
+- Focus on branding more than substance
+- Don’t clearly explain what someone gains
+- Are vague or missing important details
+- Feel like a generic broadcast
+As a rule of thumb, if the same message could be sent unchanged to a general campus mailing list, it likely needs to be adjusted.
+## Guidance for Student Organizations
+Student orgs are welcome to share events, especially when they are open and relevant to builders.
+Good fits:
+- Hackathons or build-focused events
+- Recruitment events that clearly explain what members will work on or build
+- Special events (workshops, speakers, showcases) with clear technical or creative value
+Not a fit:
+- General weekly meetings
+- Callouts or “come learn about our club” posts without substance
+- Officer elections or internal updates
+If the event is something someone would attend to *do or learn something specific*, it fits. If it’s primarily about running or growing the club itself, it doesn’t.
+## Guidance for Recruiting
+Recruiting is welcome, but it needs to be thoughtful and tailored to this community.
+Stronger recruiting posts:
+- Focus on the actual work (projects, systems, problems)
+- Give insight into how your team builds or operates
+- Offer something interactive (Q&A, demos, real conversations)
+- Make it clear why this is interesting for someone who already builds
+Weaker recruiting posts:
+- Generic info sessions
+- Broad “we’re hiring” announcements with no detail
+- Posts that could be sent to any campus without changes
+A good recruiting post should feel like a window into what it’s actually like to build at your company, not just an invitation to apply. If it feels specific to this community, you’re in a good place.
+## Final Remarks
+We’re happy to share events, tools, and recruiting opportunities -- especially when they’re thoughtful and aligned with what people here care about.
+If you’re unsure whether something fits, feel free to reach out before posting. I’m happy to give pointers @rayhanadev :)
