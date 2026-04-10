@@ -3,7 +3,6 @@ title: "B2B Hackers"
 ---
 
 ## Overview
-B2B Hackers is an initiative within Purdue Hackers to turn something we already do well into something durable.
 Over the past few years, we’ve built a community that reliably brings highly talented builders to the room. We know how to get people to show up, how to make events feel real instead of transactional, and how to create environments where ambitious students genuinely engage. Companies have started to notice. When Neuralink showed up, they stayed until 6am. Sentry is coming because they see people they’d actually want to hire. We’re fielding requests to come to campus from Vercel, Pierre, Retro, and more.
 What’s already happening is simple: we’re informally becoming the best interface between certain companies and Purdue’s talent community. B2B Hackers exists to formalize and scale that.
 Today, Purdue Hackers is funded through a mix of sponsorships, donations, and one-off partnerships. That works, but it’s unpredictable and limits how ambitious we can be. At the same time, companies spend significant time and money trying to recruit students here, and much of it is wasted. They table in Lawson, hand out shitty swag, and leave with a pile of resumes but very little signal. The university adds another layer of friction through bureaucracy that most external companies don’t understand and don’t want to deal with. We’ve seen this with the Corporate Partners program dropping from 64 members to just 14 semi-active members.
@@ -18,5 +17,3 @@ If anything, this should make the community better. More funding means more µgr
 Operationally, this should stay small and high-agency: a few people who can close, design, and execute. Not a committee, and not a slow process. The work is straightforward, but it requires taste and speed: finding the right companies, pitching them well, and delivering consistently once they say yes.
 If this works, the outcome is simple. Purdue Hackers becomes financially independent in a real way. Instead of relying on one-off sponsorships, we have a steady flow of partners who see clear value in working with us. Companies start coming inbound because they know we can deliver signal. And internally, we get to fund the things we’ve always wanted to do without compromise.
 At a high level, B2B Hackers is this: we already know how to bring the right people together and make something happen. Now we’re making that capability legible, repeatable, and valuable enough that others will pay for it.
-## How we do it
-1. Positioning before presence
