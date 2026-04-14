@@ -15,3 +15,6 @@ When the last two people are ready to leave, they must ensure that the space is 
 - [ ] Unplug the dashboard from the projector and put it on the Hack Cart.
 - [ ] Unplug the Sign from the wall and put it on the Hack Cart.
 - [ ] Take Hack Cart back to the Purdue Hackers office in Lawson B128.
+- [ ] Wipe down boards
+- [ ] Take out trash if overflowing
+<empty-block/>
