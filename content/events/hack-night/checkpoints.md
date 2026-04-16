@@ -4,6 +4,7 @@ title: "Checkpoints"
 
 Checkpoints (formerly known as Demos) occur after the [Countdown](https://www.notion.so/309181f3b6ed81148068d2abd97ce30e) and are a time for members to show off what they worked on during Hack Night. Checkpoints encourage members to share bits of their progress and are a time for us to find and encourage new members to share their work.
 ## Setup
+- [ ] Inform everyone that Countdown is about to happen (ensures we have an audience/participants for Checkpoints)
 - [ ] Ensure the projector is set up.
 - [ ] Bring the speaker to the front of the room and ensure the microphone is working.
 - [ ] Have an organizer stand by the projector to help members connect their devices and facilitate the transfer of the microphone.
