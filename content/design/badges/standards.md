@@ -17,16 +17,16 @@ When aligning badges in Trotec Ruby, you’ll have to decide on a size for each 
 For a 12x18 sheet, you should aim to make 40–50 badges per sheet (80–100 badges total, since we usually use 2 12x18 sheets). For a 12x12 badge you should aim to make 30–35 badges.
 The ideal size for a badge is somewhere between **2.0 and 2.7 inches**. Try not to make the dimension on either side larger or smaller than this if you can. Though larger is ok if you think the badge warrants it.
 In general, a badge should not be smaller than 2.0 inches in any direction unless it’s super warranted or there are material constraints. 1.9 or 1.8 in one direction (so \>2.0 in the other direction) can be fine if the design is good.
-::: callout {icon="🚨"}
+<callout icon="🚨">
 	**Never** make a badge smaller than 2.0 inches in *both* directions or smaller than 1.7 inches in one direction. See the Hack Night 3.3 “Lightning Time” badge for an example of a solid badge that was kneecapped by being too small.
-:::
+</callout>
 **Important:** The total size of the whole thing should not exceed `acrylic sheet width and height - 0.125` inches, or `- 0.15` if you want to really be safe. Acrylic manufacturers like Canal Plastics have a tolerance of +-1/8 inch, and in our experience it’s almost always on the minus side. This means that if the supposed width of a sheet of acrylic is 12x18 inches, you should assume it’s actually 11.875x17.875 inches.
 ## Colors
 In this section, colors will be represented with hex codes. Hex codes can be 3 (`#xxx`) or 6 (`#xxxxxx`) digits. For the sake of simplicity, hex codes in this document will be represented by a 3-digit code. To get the corresponding 6-digit code, simply double each digit. For example, `#F00` -\> `#FF0000`.
 Trotec Ruby will recognize any grayscale color from `#000` to `#FFF`, and will recognize `#F00` as the cut path. Any other color cannot be engraved or cut by Trotec Ruby.
-::: callout {icon="👋"}
+<callout icon="👋">
 	If it is your first attempt at making a badge, **do not attempt grayscale**. Instead, make sure everything is either `#F00` (red) for the cut path, `#FFF` (white) for no engraving, or `#000` (black) for engraving.
-:::
+</callout>
 ## Engraving
 - Make sure all engraving lines have a thickness of at least **3% the size of the badge**. Engraving patterns that are too thin will not show up well.
 - You can actually use any grayscale color, from `#000` to `#FFF`, for the engraving. The lighter the engraving color, the less power the laser cutter will use for that segment of the engraving (black being full power, and white being no power). But please use this wisely and sparingly:
