@@ -3,9 +3,9 @@ title: "Inventory"
 ---
 
 This is the current list of materials we have in stock for making badges. If you need to order more, please refer to the **Materials** page for more information.
-::: callout {icon="📅"}
+<callout icon="📅">
 	Please update this list weekly to ensure that we have an accurate count of materials in stock.
-:::
+</callout>
 <table fit-page-width="true" header-row="true">
 <tr>
 <td>**Material**</td>
