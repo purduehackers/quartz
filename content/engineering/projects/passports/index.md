@@ -10,12 +10,12 @@ The projects within this folder are related to the creation and management of Pa
 - [Dashboard](https://passports.purduehackers.com)
 - [Blog](https://blog.purduehackers.com/posts/papers-please)
 ## Key Information
-- **Status**: Active
-- **Maintainer**: Matthew
+- **Status**: Down for rebuild
+- **Maintainer**: <mention-user url="user://05bbe8bd-8617-4aef-b990-0bcd7c353939"/> 
 ## Projects
 - ID: An OAuth2 server written in Rust that allows for Passports as a provider for authentication.
 - Passport Issuing Office: A web app written in TypeScript and Next.js that allows people to create Passports and register for Passport Ceremonies.
 - Passport Authority: A mobile app written in Swift that allows organizers with Admin Passports to activate Passports at Passport Ceremonies.
 - Passport PDF Concat: A script written in TypeScript that concatenates Passport Data Pages in a single PDF file for printing.
-<page url="https://www.notion.so/309181f3b6ed81fa8fbefa0b0d2a4160">ID</page>
-<page url="https://www.notion.so/309181f3b6ed816f8cfbdc1d67f1c8de">PDF Concat</page>
+<page url="https://app.notion.com/p/309181f3b6ed81fa8fbefa0b0d2a4160">ID</page>
+<page url="https://app.notion.com/p/309181f3b6ed816f8cfbdc1d67f1c8de">PDF Concat</page>
