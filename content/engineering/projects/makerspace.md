@@ -6,10 +6,14 @@ Conversion of Lawfice to a makerspace<br>Currently focused on 3d printing, elect
 ## Tools/Equipment
 General
 - [ ] I-fix-it kit/precision screwdriver set
-- [ ] Flush cutters
-- [ ] Pliers (needle nose and regular)
+- [ ] Flush cutters:
+	[https://www.amazon.com/Cutter-Lightweight-Klein-Tools-D275-5/dp/B000GTMZHG](https://www.amazon.com/Cutter-Lightweight-Klein-Tools-D275-5/dp/B000GTMZHG/ref=sr_1_1?sr=8-1)
+- [ ] Pliers 
+	[https://www.amazon.com/ZUZUAN-VISE-GRIP-Pliers-Precision-Crafts，2pcs/dp/B0B5CQ6KNS](https://www.amazon.com/ZUZUAN-VISE-GRIP-Pliers-Precision-Crafts%EF%BC%8C2pcs/dp/B0B5CQ6KNS/ref=sr_1_15?sr=8-15)
 - [ ] Allen key set
+	[https://www.amazon.com/Amazon-Basics-Wrench-Metric-Storage/dp/B07V844YR8](https://www.amazon.com/Amazon-Basics-Wrench-Metric-Storage/dp/B07V844YR8/ref=sr_1_1_ffob_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
 - [ ] Xacto Knife
+	<empty-block/>
 - [ ] Utility Knife
 - [ ] Cutting mat
 - [ ] Small files
@@ -23,6 +27,7 @@ General
 Electronics:
 - [ ] Desktop Power Supply
 - [ ] Wire Stripper
+	[https://www.amazon.com/WGGE-WG-015-8-Inch-Stripper-Crimper/dp/B073YG65N2](https://www.amazon.com/WGGE-WG-015-8-Inch-Stripper-Crimper/dp/B073YG65N2/ref=sr_1_1?s=hi&sr=1-1)
 - [ ] Tweezers
 - [x] Wire cutter
 - [x] Pinecels
@@ -44,7 +49,7 @@ Electronics:
 - [ ] M3 socket head assorted screw kit
 - [ ] Assorted metric screw kit
 ## Layout
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/0dc181f3-b6ed-8156-acb6-000345374ef5/4b707d9a-1f82-4111-bde9-f20507a860be/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663XORT4V4%2F20260830%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260830T230253Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDXbHbslcOAEWcqmqP4%2F7fQS8SL9%2Ftiw9arMCak6IrM9gIhAKD%2FKPvCkFwbwIWpXM3XMe4nLIPkz%2B%2By1oe9Gmcf9D7sKogECIj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igz3T4JthiOeILFjm4sq3APzCxPlgjfj6smJlBIXKxwwOXViBLVui%2BwA32KsVLHDCKir3782MxjjNkSchPzHjG7vi4qsPDeiE5xb9G232aXbb3PD1nF2S1uIfOyYGO46zY4N%2BM4S8JuvY4iozu2o61gqTRZxmyNIzDhsMv37Cf7QfaVHTKNiWPTSEKvA5dHO%2FJ1B7xY2IEwNlg%2Bn4AJLFLjYN9uO9C6LzgLyu6Wxh6gQBV%2F%2B7d3rD5km6oLnR7ilkt1zxpyjXdexwm%2BmKB26nvO7o7EBjGieq3tw9rD44dloKVHJe4pAz5N1J8GM3waYnMphk9ME8sQkcgOz1sGkPZWX2UElDhu2Sya4ovotJ0yfpwkAefAx9EfGEHZb1UFhYcX2cxo8eJEP1GFXdA5doB2BVwW39P%2FTUcs8f2o9oBnabBRgHLA122f9slhiay8JEYj8H0a7hWhFsxHZsA8fgALBEuOrTz7%2BVRQPUHx6piIwmmlXvdH51Uh8QA4g1oRrqWvQKjPSSLzyIbcrZN0h%2BFfiyBT2mnxazJ9inf6pMfLmLBfA1MlopANyV6SxD3SzwrraY%2FMqW2ZT0fFb5xWk0vDc19Y13RToS4UIM5vFi05e6qLGXrCnx%2FeS4rFqubQgyJ62onbSswWKevFU9zDO4NLUBjqkAbKxI2sK5KmKqtwWxCGpeN8vDG1nwcenkUBqf4YJSRQH0WQdBeKOMS5NjSa4lbsKcNY2%2B8OIXGeNBcAdXmOOME1PZm5zighP0iDnCyWKpBQ8O54J1P%2FtB%2BRHkn%2BMDImpGA33C6t6lRzpdjQ2PncqAgmBmBrXxv6J0MXjgaWxWQs0ufPAAJwEHDvvj5yDE7j9RA3UfLy6AtWHQgJT3rI%2FUtwlyEu0&X-Amz-Signature=d267317af5d1aa92185bb40dd77ebf7773d4e714f539f5e8c8c284c7368ad800&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/0dc181f3-b6ed-8156-acb6-000345374ef5/4b707d9a-1f82-4111-bde9-f20507a860be/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46654TACNL3%2F20260902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260902T190313Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAMaCXVzLXdlc3QtMiJGMEQCIGc5lgGj%2F1Mu5lfRJxNE2f8h%2BZaQJpEzt0mTK%2BpdBELPAiAsY9hFawzF6ysqbzl1CTNMPczhTWlkWFfM%2FUbAD3GfJiqIBAjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIM%2BGJsy%2FpAwrqt5NGMKtwDdksuo9ZEYskBbAhwert0F%2BE4hTeg8eVY8FAZfSHIIfGJpoV3NiOnt5hxeNQAhWCgpm1MQzhRZYQ5roGELn8%2FQARrJu8vqeE7Wr%2B4AYBhELSxW8wpY576ZbXHoda0U7q6S2QKddcUGZ0i6ou8I5VfcZ9iubgd2fDrqVMjyQESQovTKV3%2FXjyw3y1LJDDnc4k2YSVPrwJCv%2BLv%2BAS6vY%2ByQQj%2BgPDrw6rNfKH7W1AAAUEZgoaV9r0CuioVvupifadNLyQVcXV14njxA2ZDhidSpowAI6GXyhOsHNXK2uraTcXu9VKjVdLv7B%2F7PjyMQ8XKh2Zwikfb9PasMc176%2F4NJBSn0XXn2%2BFrgY3HpDs%2FHQ55dweJoff0D7613wqdqVPZJkFC8pWm76xkeUvgPkEZETQ5DsIae4%2FmoPSOEX3Dic86pco7cYUrI9yT6wf6O0q5icRpRhR0CSece5FdGZ%2F7lpGFi1UzhSVnkMQOnwMX7CdBzsFRxyglP%2FK%2BP45lbCM2Up1uJe749eHt9mwpo30F9anLlTP0SvmutTlOeh73zLpstjSER7gd35FQxKuU33Nbv9mXsEycrD3TolkmEkTip9bYILEyX1uQvLyyaddQC2FYqTFxVTMvGm%2FrGNwwhtrh1AY6pgFo6Jm2LVZ1sXX6%2BapGycVUDwFcR5WFfICdXFomhfcWnBvO0DGQMFzqgWNL%2BvkrAqS2%2FA23IhesYVKQidt3%2Bu9Gy0YZzgILoImuzrGt6iIr8RU9kQxManjPNNWYnbu4yRdVgJx4DuZv0C4C9gL86ZchvHuj6vc8nTMA9ksf4bI4nwYHmUxZvNS9hU5TZ3lb1HVGPd7AeWleuhDUsGh9q%2BuAxjBvSFVz&X-Amz-Signature=f914c85a527102b7213200cb4bf894d82865ede77e1c39de8d40628080970cb6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 <empty-block/>
 ## Access
 ## Safety
