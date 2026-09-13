@@ -17,3 +17,10 @@ title: "ph-pmx-1"
 	Uses Tailscale to generate TLS certificates and configures Proxmox UI to use those for HTTPS.
 	Presents as `/usr/local/bin/tailscale-tls-proxmox.sh` and `tailscale-tls-proxmox.{service,timer}` systemd units.
 </details>
+<details>
+<summary>SSH jump user</summary>
+	There is a `jump` user account which is used allow members to proxy SSH connections to their containers/VMs through the host. The user has the shell set to `/usr/sbin/nologin` and has no home directory.
+	There is a drop-in configuration file `/etc/ssh/sshd_config.d/90-jump.conf` which allows password authentication for the `jump` user and disables everything except TCP tunelling.
+	There is a `jump-firewall-rules.service` systemd unit which adds iptables rules that prevent the `jump` user from sending any traffic other than to TCP port 22 on 172.16.0.0/24.
+</details>
+- More that I haven’t written down (yet)

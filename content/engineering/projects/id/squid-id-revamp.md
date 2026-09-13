@@ -8,7 +8,6 @@ The only way of signing up should be through Discord since all of our members ar
 1. Passports (optional)
 2. GitHub (optional)
 3. Email (optional for communications/newsletters(?))
-<empty-block/>
 # OIDC
 Squid will be an OIDC provider so members can register their own clients from the dashboard. Adding "sign in with Purdue Hackers" will just require pointing any OIDC library at the issuer and choosing scopes.
 PKCE is required for public clients and for anything requesting offline_access, and we require it of confidential clients too.
