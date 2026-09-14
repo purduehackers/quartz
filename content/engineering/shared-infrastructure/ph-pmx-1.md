@@ -23,4 +23,10 @@ title: "ph-pmx-1"
 	There is a drop-in configuration file `/etc/ssh/sshd_config.d/90-jump.conf` which allows password authentication for the `jump` user and disables everything except TCP tunelling.
 	There is a `jump-firewall-rules.service` systemd unit which adds iptables rules that prevent the `jump` user from sending any traffic other than to TCP port 22 on 172.16.0.0/24.
 </details>
-- More that I haven’t written down (yet)
+<details>
+<summary>Networking</summary>
+	The `nic0` interface is configured with a static IP and gateway.
+	The `vmbr0` is configured with a static IP of `172.16.0.1/24`. This is the bridge that VMs and containers are connected to.
+	IP forwarding is enabled and there are iptables rules to masquerade traffic from guests to the `nic0` interface.
+	This is all configured in `/etc/network/interfaces`.
+</details>
