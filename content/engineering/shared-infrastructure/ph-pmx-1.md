@@ -22,6 +22,14 @@ title: "ph-pmx-1"
 	There is a `jump` user account which is used allow members to proxy SSH connections to their containers/VMs through the host. The user has the shell set to `/usr/sbin/nologin` and has no home directory.
 	There is a drop-in configuration file `/etc/ssh/sshd_config.d/90-jump.conf` which allows password authentication for the `jump` user and disables everything except TCP tunelling.
 	There is a `jump-firewall-rules.service` systemd unit which adds iptables rules that prevent the `jump` user from sending any traffic other than to TCP port 22 on 172.16.0.0/24.
+	To log in as `root@172.16.0.5` using the jump account, use this command:
+	```bash
+ssh -J ph-pmx-1.purduehackers.com:44022 root@172.16.0.5
+	```
+</details>
+<details>
+<summary>Alternate SSH port</summary>
+	SSHd is listening on both ports 22 and 44022, as inbound access to TCP port 22 from outside AS17 is blocked.
 </details>
 <details>
 <summary>Networking</summary>
