@@ -5,10 +5,10 @@ title: "Makerspace"
 Conversion of Lawfice to a makerspace<br>Currently focused on 3d printing, electronics, and some assembly
 ## Machines
 3D Printers:
-- [ ] Prusa Core One + (3x): <br> [https://www.prusa3d.com/en/product/prusa-core-one-kit/](https://www.prusa3d.com/en/product/prusa-core-one-kit/)
+- [ ] Prusa Core One+ (3x): <br> [https://www.prusa3d.com/en/product/prusa-core-one-kit/](https://www.prusa3d.com/en/product/prusa-core-one-kit/)
 Already own:
 - [ ] H2D
-- [ ] Prusa Core One (Artus)
+- [ ] Prusa Core One+ (Artus)
 - [ ] Potentially Flasforge U1 (Anish)
 - [ ] Custom printer (Neel)
 - [ ] Ender 3 (likely wont use)
@@ -84,7 +84,7 @@ Electronics:
 - [ ] Assorted metric screw kit
 	[https://www.amazon.com/Fgruh-M3-M4-M5-M6/dp/B0FG2964F5/ref=sr_1_4](https://www.amazon.com/Fgruh-M3-M4-M5-M6/dp/B0FG2964F5/ref=sr_1_4)
 ## Layout
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/0dc181f3-b6ed-8156-acb6-000345374ef5/2f731539-3295-42bc-9c60-81c260da9bc1/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SVT3O46E%2F20260918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260918T180217Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC5XOuWPWn0xXgsuymjOfZvYdlwbY1YudzjLvEv9EcJ1AIhAK6gu5%2BaVTxTRWKKP1mAXKIJC0g3vbedbj4wliBf8nJGKv8DCEoQABoMNjM3NDIzMTgzODA1IgxNO1kNUtoxys9tajIq3APxWTaWDLxK%2FG6JXSD31lVhhHCK%2FLMl%2FuOlzAJzDEwx%2B99HgdiFTP1f0NH66B%2FYIQWJfjLJAj5tr4vqXTqWT%2Bc1p1I41tX46Xp5g7FYLgW0tFvVcqAqKDt1oMWP8xckZmNNTLLeFDVfVsM4xAedObxOHGL6WV9jOmmaXrAeGrljLWt%2Ft8UvB2a1Dvus4sQ%2BjlMVQpS3ACcrgKpGV%2FbEBdWi%2ByINyuju35Co9Bj%2Fh5vfsz5KLm8ZZPiQoEXz%2FsbzxAUXarVq8%2B2UNw5ZpJk07PVLG6FJU1GgCHyY7jFPstYSCJPSLDtFf9xIe1OZ%2FrxtxQC3qH2Xdd%2FzkCYBS%2FV%2BPn2FhlygwJd4MjBJ%2FUPvKbi8xLWtaZs9b8t4jQ%2FlyjbyWAk6xltvC7AAT0eTigA15EXr%2Fwtn9ZGY81I5ekc%2FUGWsDf9UKDwudzthIuI549zssfr8UU7VTenBlVX%2FRZ0mvSukfAXzZM5X6rg%2FmDfUhXRdUz8tQ87h6xmHYBQ2daOCOhdYlqxflRvxVDK3s%2F%2Fpr%2BRfNET7zH7M03kXryzZlmhpinvtctBk5Dh0MiuGiC2EEa3zLlUkKuxiF55jI65IBUQu79wq1C6QhkxMCYleqXaorI6VJJQijkd6fOpMcDDH5LXVBjqkATS0dyvNHn%2BD%2FxL9Qw1kasaw%2BnenXTAw1XU62zXPaLdAbbHP1n6VBs%2FyJvqPDbou9nGhqcXWEA0xGc3BXtco0BbkgG47kHAiu9tKdEsoKxGlJuSbYPLlY5k4%2F0iQD8j%2Be83m7frMITPZLDrFKEx7JyYPBkzD29g3VjEOv7Xi%2Bh%2B7ECETq9UFxcEoP42dl0KUxyz872THbhXqmu1M0AMudcG1KB%2Ff&X-Amz-Signature=5f90f3b98dc4bb8cd30f3666de5004d1b554b9a8b20f47f5d48fa124976b295b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/0dc181f3-b6ed-8156-acb6-000345374ef5/2f731539-3295-42bc-9c60-81c260da9bc1/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664USYYCUK%2F20260921%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260921T040221Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDrrExlpp2kYOoO59KLnE86JSURp3ak68R0ZGWIzkg45gIgWWzVVUn8XvVG7K%2B780NuiR%2BB%2FP0W1t1t93cKe2sMeJoqiAQIhf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDIBtDld2aF9MObNs8ircA5QOlgAv%2BpLGvbUE1KSQne0uSdLDlvwDxmXYz5dAHeIV6SU9Tw1peeXEBQkFWB0NCJwemo4AkoKWgZcgO6L07mQUrJMpTNzfGOIQ%2BZpkajpZOL05mCGJxlmihbV1oS3t5C5TshTBXhFR87%2Fph5FE0UddCF6zdVMfPxerDIP4XbRgitfh0mFp6i09dB4898tHWm4DFVpfTQ1RC%2BJ%2BfFxtr3mNbU7ydFN2zACGcA22QDb1u%2FZqxnwV%2FGYwhNFBah8yE7WTWU%2BdUDLyROwT5%2B4pxgnXRYZY4dj0GiK6tXLjiDq6sFLd%2FWmIxHliP8YqqjzRNUSvJTb0IES7RZJU2DBKkhxcMmTtO6i6Q9Iob%2BABzJ08safMxCopeYYKSCtChIRmwjop0ePvSWJGj1fNZifk2gox2GbghlddloDRBEecSwITX%2Bl2ol2KRBv9f4Nb3Qpr9N0zHQLUD8L8fO%2BZy8kGgQZKUCHQwB%2FYvHr7OeR2aggLFzm6CSfu9mEeV90QQRiFBPVJr4HmPnr5mXow7z%2BjYqQAogx0hwZLsCOTod4hG2bZaRaDXxBrpU2tCFhYAAwTCq0HN%2BiRzKfAGv9TC8RIDxoZGEpmsHxKPgXY6pz7Hq1Bi00YnNLs4seIBy6oMMnOwtUGOqUBtwcrvkb1dosSh8quRw8i5N88hxXfVwDWJ%2Fe6geGJ3VYcDW1XQX8LUt%2B1I7yk9ZUHEVIxA6lazf99ndhnA0NhDtvnz55qV8Pq5mfDYS5qlIUllDh%2BNs%2FXJJWfYO77cFomIfS3UIFqZ57jchNfDWrsol8p9a%2FZQutylRXUXuDWlfe1j16mHBjfDJeHH60mmMQmYTwSnXISHFwhaLaV5ALg2pfwwNLV&X-Amz-Signature=9444426a78298257330fc6b07a1232409ba6106ca208f447751938d93936302b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 ## Access
 ## Safety
 Bin of safety glasses on top of the shelf so it's easy to access
