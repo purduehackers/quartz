@@ -34,7 +34,11 @@ ssh -J ph-pmx-1.purduehackers.com:44022 root@172.16.0.5
 <details>
 <summary>Networking</summary>
 	The `nic0` interface is configured with a static IP and gateway.
-	The `vmbr0` is configured with a static IP of `172.16.0.1/24`. This is the bridge that VMs and containers are connected to.
+	The `vmbr0` is configured with a static IP of `172.16.0.1/24`. This is the bridge that VMs and containers are connected to. All containers need to be assigned a static IP in this range.
 	IP forwarding is enabled and there are iptables rules to masquerade traffic from guests to the `nic0` interface.
 	This is all configured in `/etc/network/interfaces`.
+</details>
+<details>
+<summary>Port forwarding</summary>
+	To forward traffic on 
 </details>
