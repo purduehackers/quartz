@@ -1,8 +1,7 @@
 ---
-title: "Makerspace"
+title: "Items for purchasing"
 ---
 
-Conversion of Lawfice to a makerspace<br>Currently focused on 3d printing, electronics, and some assembly
 ## Machines
 3D Printers:
 - [ ] Prusa Core One+ (3x): <br> [https://www.prusa3d.com/en/product/prusa-core-one-kit/](https://www.prusa3d.com/en/product/prusa-core-one-kit/)
@@ -23,6 +22,7 @@ Sticker Cutter (either):
 - [ ] 3'x9' table preferably with cabinets/drawers on one side
 - [ ] Skadis pegboard x3: [https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
 - [ ] Above desk shelves (need to find link)
+- [ ] [https://www.homedepot.com/p/Husky-Heavy-Duty-61-in-W-x-22-in-D-15-Drawer-Matte-Black-Mobile-Workbench-Cabinet-with-Solid-Wood-Top-H61MWC15HD-TL/333936181](https://www.homedepot.com/p/Husky-Heavy-Duty-61-in-W-x-22-in-D-15-Drawer-Matte-Black-Mobile-Workbench-Cabinet-with-Solid-Wood-Top-H61MWC15HD-TL/333936181)
 ## Tools
 General
 - [ ] I-fix-it kit/precision screwdriver set
@@ -83,12 +83,4 @@ Electronics:
 	[https://www.amazon.com/Fgruh-750PCS-Assortment-Washers-Assorted/dp/B0FGV5FCBN](https://www.amazon.com/Fgruh-750PCS-Assortment-Washers-Assorted/dp/B0FGV5FCBN)
 - [ ] Assorted metric screw kit
 	[https://www.amazon.com/Fgruh-M3-M4-M5-M6/dp/B0FG2964F5/ref=sr_1_4](https://www.amazon.com/Fgruh-M3-M4-M5-M6/dp/B0FG2964F5/ref=sr_1_4)
-## Layout
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/0dc181f3-b6ed-8156-acb6-000345374ef5/2f731539-3295-42bc-9c60-81c260da9bc1/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RJUKY7RJ%2F20260921%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260921T150218Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC4NSgrfb2Qw%2FhW7lYNUddAMIDiRiFZnnYcwQKW0B27uwIhAO%2By7XGbRzgu0hi5S8mszR3KGhTzVfiKyBiwGiSYZMbqKogECI%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igz174xUd4cyhA%2FuRd8q3AMpzZnoWqvP%2BR9jt2TXFOPd9d3w%2Bp92f1z4LTOXDCbh%2F1oFAuRIwtdfmfXVBIjIeWzMahPbFrBGmJCaGGW4Xfhp5ERNqPWyHKs6wC5DIOUN8EDGw30hCmF8zr8nvBeGsGu3TTqUd2tRjcmq01a8LxA60O2NCeq6RpJ4s1vBDrDHwzfTEO%2FXsPAzA2jFiuC4N0BLPSuwL3nQ%2Bil7gRxD3CPgZAOhD%2BBi8ZMHYFM0HNn0al8kAH2ARNofV5BWYAsBxpOc4SSa0w4tMZwZT2ZeKgnOx2h09V8gwCRoZHe5OybgfT7UfeYC%2FQmsEDT6fdLS%2FHrmpiAE0PvyLbmIh6x5lku%2BXvYIs7W6dpPX4wqy%2FALjqW9kRwLE5PAY29V6fC8nKqC5odM%2F2a7qlYljVne93G%2B63F87ODlfIih7aPTl1rN%2FCcobDB93RYUMwM6kenfoSUggQXGypHltqxDLWGINxKFLJg4zi6V%2B1GoxmJhpvB17ozACWl6HAhu7%2BlOOnbnjYKXIKjMaAPtS19Mmzr5MVHddPOnG0sdwZQgBwRlyBA7dixvLE1BxtM8Vitkaezi3gE%2FeP%2FI2MGqqlUVL%2FZjl2MQx0CCa8UV37ueZNPSU0sZi8lOkQfVu4V9kkyVv8jCx%2BcTVBjqkARNSHD14HxcNe59BBHRZIMaVuqbrVeVQMkIhL9b4FgG2XyDIcjc9DuWJNGryY0NzlEx%2Fv%2FFFmHl98qR0bTg%2BxM7LD0jIg66C9etB1Askm0BG1TZ1vQab1QIRpz1sDRz5WoKllk%2F8GFBm6sqyQyWiLsj2eHWLAeZBQP8bGe6CEX5HS4K78VwMgtHFeCPCMz0OMKpYfR%2Fni1AfS6G1L%2BYMZmN3eF%2Fj&X-Amz-Signature=88edbdb018d2be0868dc76b8e15750f3fc3004d76fd61d94821afd8cac159906&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
-## Access
-## Safety
-Bin of safety glasses on top of the shelf so it's easy to access
-Fumes are a concern with soldering and 3d printing happening in a small space, so we need an air purifier.
-<empty-block/>
-<empty-block/>
 <empty-block/>
