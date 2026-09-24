@@ -42,3 +42,26 @@ ssh -J ph-pmx-1.purduehackers.com:44022 root@172.16.0.5
 <summary>Port forwarding</summary>
 	To forward traffic to a container, add a `post-up` and corresponding `post-down` rule to the `vmbr0` interface in `/etc/network/interfaces`.
 </details>
+# List of containers
+<table header-row="true">
+<colgroup>
+<col width="239.66666666666666">
+<col width="239.66666666666666">
+</colgroup>
+<tr>
+<td>Container name</td>
+<td>IP address (internal)</td>
+</tr>
+<tr>
+<td>webhost</td>
+<td>172.16.0.5</td>
+</tr>
+<tr>
+<td>redis</td>
+<td>172.16.0.7</td>
+</tr>
+<tr>
+<td>deepansh</td>
+<td>172.16.0.6</td>
+</tr>
+</table>
