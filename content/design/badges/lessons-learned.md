@@ -26,3 +26,4 @@ What we’ve learned from 40+ badge iterations over the history of Hack Night.
 - **Hack Night 5.4 (Flat Earth/UN):** Make your engrave lines thicker than 1px, ideally 3% of the entire design, otherwise they won’t show up very well.
 ## Neutral
 - **Hack Night 5.9 (Metal/Laser/CAD):** Metal badges are expensive and annoying. We only did this one because we were sponsored, and we did it right before the metal laser cutter died and it took like 3 hours. I probably wouldn’t do it again, but I’m really glad we did it that one time.
+<empty-block/>
