@@ -10,23 +10,23 @@ If there is a sponsor for the Hack Night, work with the [Fundraising](https://ww
 ## Checklist
 - [ ] Ensure everything is on the cart
 ### Downstairs
-- [ ] Set up <mention-page url="https://www.notion.so/344181f3b6ed80d9a880d2777eb988dd"/> and <mention-page url="https://www.notion.so/33b181f3b6ed802b9637fa00fcfe2516"/> 
+- [ ] Set up <mention-page url="https://app.notion.com/p/344181f3b6ed80d9a880d2777eb988dd"/> and <mention-page url="https://app.notion.com/p/33b181f3b6ed802b9637fa00fcfe2516"/> 
 	- [ ] Plug in the black extension cord to the power outlet on the far end of the table (away from the door)
-	- [ ] Plug in the <mention-page url="https://www.notion.so/33b181f3b6ed80779da0f115a6e1937e"/> to the black extension cord
-	- [ ] Plug in two <mention-page url="https://www.notion.so/33b181f3b6ed804dafcce6fcd43727e4"/> to the charger block
+	- [ ] Plug in the <mention-page url="https://app.notion.com/p/33b181f3b6ed80779da0f115a6e1937e"/> to the black extension cord
+	- [ ] Plug in two <mention-page url="https://app.notion.com/p/33b181f3b6ed804dafcce6fcd43727e4"/> to the charger block
 	- [ ] Wipe down surfaces using Clorox wipes (bottom section of Hack Cart)
 		- [ ] Glass door surface
 		- [ ] Area around the ADA button
-	- [ ] Stick <mention-page url="https://www.notion.so/344181f3b6ed80d9a880d2777eb988dd"/> on the glass door surface
-	- [ ] Stick <mention-page url="https://www.notion.so/33b181f3b6ed802b9637fa00fcfe2516"/> around the ADA button, with the linear actuator in the top left
+	- [ ] Stick <mention-page url="https://app.notion.com/p/344181f3b6ed80d9a880d2777eb988dd"/> on the glass door surface
+	- [ ] Stick <mention-page url="https://app.notion.com/p/33b181f3b6ed802b9637fa00fcfe2516"/> around the ADA button, with the linear actuator in the top left
 	- [ ] Plug in the USB C cables to the modules
 	- [ ] Wait for devices to power on and connect
 	- [ ] Use passport to verify door opens correctly
-- [ ] Set up <mention-page url="https://www.notion.so/33b181f3b6ed801da346f1eb9d8a75cd"/> 
-	- [ ] Extend the <mention-page url="https://www.notion.so/33b181f3b6ed800288dddec559252d42"/> to full height and tighten the metal ring
-	- [ ] Set up <mention-page url="https://www.notion.so/33b181f3b6ed800288dddec559252d42"/> in front of the TV in the airlock
+- [ ] Set up <mention-page url="https://app.notion.com/p/33b181f3b6ed801da346f1eb9d8a75cd"/> 
+	- [ ] Extend the <mention-page url="https://app.notion.com/p/33b181f3b6ed800288dddec559252d42"/> to full height and tighten the metal ring
+	- [ ] Set up <mention-page url="https://app.notion.com/p/33b181f3b6ed800288dddec559252d42"/> in front of the TV in the airlock
 	- [ ] Pull out the black extension cord behind the TV
-	- [ ] Plug in the <mention-page url="https://www.notion.so/33b181f3b6ed809f8dc7e510611024b6"/> to the black extension cord
+	- [ ] Plug in the <mention-page url="https://app.notion.com/p/33b181f3b6ed809f8dc7e510611024b6"/> to the black extension cord
 	- [ ] Plug in the USB C power cable from the phone into the charger block
 ### Upstairs
 - [ ] Set up badges table
@@ -35,20 +35,20 @@ If there is a sponsor for the Hack Night, work with the [Fundraising](https://ww
 	- [ ] Roll a tall whiteboard out to be aligned in front of the stairs
 	- [ ] Draw something on theme with the current Hack Night on whiteboard
 	- [ ] Letter “Welcome to Hack Night \[version\]” on whiteboard
-	- [ ] Place <mention-page url="https://www.notion.so/33b181f3b6ed801599afd49317301315"/> on table in front of whiteboard and plug in using a C13 (aka Computer) power cable to the power strip
-	- [ ] Place <mention-page url="https://www.notion.so/33b181f3b6ed80cfbbabf19cce7bf571"/> on table in front of whiteboard and plug in using <mention-page url="https://www.notion.so/33b181f3b6ed809f8dc7e510611024b6"/> to the power strip
+	- [ ] Place <mention-page url="https://app.notion.com/p/33b181f3b6ed801599afd49317301315"/> on table in front of whiteboard and plug in using a C13 (aka Computer) power cable to the power strip
+	- [ ] Place <mention-page url="https://app.notion.com/p/33b181f3b6ed80cfbbabf19cce7bf571"/> on table in front of whiteboard and plug in using <mention-page url="https://app.notion.com/p/33b181f3b6ed809f8dc7e510611024b6"/> to the power strip
 	- [ ] Empty badges from the badges bag onto the table
 	- [ ] Place rubber stamp on the stamp block and onto the table
-	- [ ] Place <mention-page url="https://www.notion.so/33b181f3b6ed8059b008d7adfd051b30"/> onto the table
+	- [ ] Place <mention-page url="https://app.notion.com/p/33b181f3b6ed8059b008d7adfd051b30"/> onto the table
 - [ ] Set up dashboard
 	- [ ] Plug in Hack Mini using AC Power Cable to the lectern
 	- [ ] Connect Hack Mini HDMI to lectern using existing HDMI cable
 	- [ ] Turn projector on and set volume to \~50% on lectern controls (can use [night.purduehackers.com/doorbell](https://night.purduehackers.com/doorbell) to test volume)
 - [ ] Set up circle couches
 	- [ ] If needed, rotate couch, tables, and TV such that TV is facing out towards the floor and couch opens up from the floor
-	- [ ] Move the <mention-page url="https://www.notion.so/33b181f3b6ed80c7a0abf5e6ff81ed40"/> and <mention-page url="https://www.notion.so/33b181f3b6ed80c09846ec6ec5059e2d"/> to the circle. Set up near the TV.
+	- [ ] Move the <mention-page url="https://app.notion.com/p/33b181f3b6ed80c7a0abf5e6ff81ed40"/> and <mention-page url="https://app.notion.com/p/33b181f3b6ed80c09846ec6ec5059e2d"/> to the circle. Set up near the TV.
 	- [ ] Plug in AC Power Cable from the speaker into the socket in the floor.
-	- [ ] Set up <mention-page url="https://www.notion.so/33b181f3b6ed80db9db2e5806e08953e"/> facing into the circle.
+	- [ ] Set up <mention-page url="https://app.notion.com/p/33b181f3b6ed80db9db2e5806e08953e"/> facing into the circle.
 - [ ] Set up tables
 	- [ ] Remove all chairs from the Design Studio
 	- [ ] Move all folded up tables near the P&P annex to where the circle area is
