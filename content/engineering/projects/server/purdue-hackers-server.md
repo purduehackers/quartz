@@ -116,4 +116,7 @@ Host server.purduehackers.com
 	3. Have us run a system-level systemd service.
 		This should be used for services which may be useful to multiple users, e.g. a database like PostgreSQL or MySQL, as multiple users can connect to one instance rather than each having to run their own.
 		If you want a service which can be used by other users as well, let us know and we’ll set it up.
+## Installing packages {toggle="true"}
+	If you need packages installed system-wide, ask in Discord. You can ping the `@Server admins` role.
+	Use `dnf search` to search for packages. The system is running Rocky Linux 9 with EPEL (Extra Packages for Enterprise Linux) enabled. It’s helpful if you can tell us the exact package to install rather than something generic like “I want a C++ compiler.”
 <empty-block/>
