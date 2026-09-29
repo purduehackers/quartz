@@ -23,11 +23,11 @@ The server is a Linux machine which Purdue Hackers members can use to run experi
 </tr>
 <tr>
 <td>Memory</td>
-<td>32 GB DDR3 1066 MT/s</td>
+<td>32 GB, DDR3, 1066 MT/s</td>
 </tr>
 <tr>
 <td>CPU</td>
-<td>2x 12-core Intel Xeon X5650 @ 2.67GHz</td>
+<td>2× 12-core Intel Xeon X5650 @ 2.67GHz</td>
 </tr>
 <tr>
 <td>Hostname</td>
@@ -109,6 +109,7 @@ Host server.purduehackers.com
 		This is the easiest, as it follows the exact same workflow as when you run the task in your shell. However it doesn’t take care of collecting logs or restarting the service if it fails.
 	2. Create a systemd service running as your user.
 		This is the most robust option. Systemd is a service manager which handles starting your task, monitoring it, collecting and storing logs, and optionally restarting it if it fails.
+		Note that you’ll need to run `loginctl enable-linger` once to allow systemd to run your services when you’re not logged in.
 	3. Have us run a system-level systemd service.
 		This should be used for services which may be useful to multiple users, e.g. a database like PostgreSQL or MySQL, as multiple users can connect to one instance rather than each having to run their own.
 		If you want a service which can be used by other users as well, let us know and we’ll set it up.
