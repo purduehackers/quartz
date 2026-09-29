@@ -92,6 +92,9 @@ Host server.purduehackers.com
 	There is a Caddy web server running on the server.
 	If you want to host a website on the server, you should do so through the central Caddy service. Essentially, web traffic comes in from the internet to Caddy, and Caddy passes it along to your service. Caddy handles things such as TLS certificates (the part that makes HTTPS secure), so you don’t have to worry about handling HTTPS on your end.
 	For static websites (i.e. ones with just static files and no running “back-end”), you can just put files in `~/www`. They will be served at `https://<your-username>.members.purduehackers.com`.
+	<callout icon="/icons/info-alternate_gray.svg" color="yellow_bg">
+		The `~/www` directory and its contents need specific permissions so that Caddy can access your files. If you get **HTTP 403** errors on your site, you can run `fix-my-www` to fix the permissions of your `~/www` directory.
+	</callout>
 	If you want to run a non-static web service, or you want to bring your own domain, let us know. We can configure Caddy to use custom domains or to reverse proxy to your web service.
 	<callout icon="/icons/info-alternate_gray.svg" color="blue_bg">
 		<details>
