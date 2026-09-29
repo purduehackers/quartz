@@ -15,8 +15,8 @@ title: "Projects"
 <page url="https://app.notion.com/p/282181f3b6ed809793c0cae6e7c1bb02">Site</page>
 <page url="https://app.notion.com/p/282181f3b6ed803e8ea3d5ce52bfdad5">Tabulus</page>
 <page url="https://app.notion.com/p/282181f3b6ed80e6affeec36389c5714">The Sign</page>
-<page url="https://app.notion.com/p/282181f3b6ed80d6b111ee860f9c7ff5">Vulcan</page>
 <page url="https://app.notion.com/p/282181f3b6ed80ea81bcdf49332333ca">Wack Hacker</page>
+<page url="https://app.notion.com/p/3ea181f3b6ed80bb8091cb22a6cb7fa2">Server</page>
 <empty-block/>
 <page url="https://app.notion.com/p/309181f3b6ed8144aa05da076109e291">Passports</page>
 <page url="https://app.notion.com/p/309181f3b6ed81b59d3ede54e3919f8b">Site</page>
@@ -33,4 +33,4 @@ title: "Projects"
 <page url="https://app.notion.com/p/309181f3b6ed81c583fbf7d2c08d4404">Phone Bell</page>
 <page url="https://app.notion.com/p/309181f3b6ed81e8ac32d8166673c02e">Lightning Time</page>
 <page url="https://app.notion.com/p/309181f3b6ed818e952ddd03d7d80a86">Vulcan</page>
-<page url="https://app.notion.com/p/3cb181f3b6ed80118f67c20494ec067b">Makerspace</page>
+<page url="https://app.notion.com/p/3cb181f3b6ed80118f67c20494ec067b">HIVE Makerspace</page>
