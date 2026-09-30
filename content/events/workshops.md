@@ -28,9 +28,9 @@ The following needs to happen for a workshop to happen:
 	2. Introduce participants to the structure of the workshop: guided building followed by self-directed hacking. Get people to join the Purdue Hackers discord and tell them they will #ship something by the end of the workshop.
 	3. Do the workshop! Smile and be energetic.
 	4. If possible, announce the next workshop at the end of the last one!
-::: callout {icon="🧪" color="gray_bg"}
-	Add takeaways to: <mention-page url="https://www.notion.so/c00179112a7c433190108a2d61221628"/>
-:::
+<callout icon="🧪" color="gray_bg">
+	Add takeaways to: <mention-page url="https://app.notion.com/p/c00179112a7c433190108a2d61221628"/>
+</callout>
 ## How do I make a good workshop?
 1. The guided portion should not be too long; a good guideline is **thirty to forty-five minutes at most**. (Remember that guidelines are just that — guidelines!)
 2. *Workshops are not tutorials: *Focus on what participants will make, not the tools they'll use. Workshops like "intro to Rust" or "intro to \<tool/language/etc\>" are uninspired. For example, "Sound Galaxy" could be called "intro to creative coding/p5," but it moves from ‘build cool thing’ to ‘learn a thing’.
@@ -40,7 +40,7 @@ The following needs to happen for a workshop to happen:
 1. [https://events.purduehackers.com/events/workshops/sound-galaxy/2024](https://events.purduehackers.com/events/workshops/sound-galaxy/2024)<br>\^ **this is the single most run workshop ever**. The guided portion is finished in about thirty minutes, and participants who have very little programming experience are able to generate creative hacks in another fifteen minutes. This workshop was most recently [run in January 2026](https://luma.com/1zftryc1?tk=VqUUGQ).
 	<file src="file://%7B%22source%22%3A%22attachment%3A6d75c003-9f48-45bc-87b4-1561bfaddb8d%3ASound_Galaxy_Workshop!_2026_02_17_01_49_21.zip%22%2C%22permissionRecord%22%3A%7B%22table%22%3A%22block%22%2C%22id%22%3A%2230a181f3-b6ed-80bf-b6ed-d0ec226cbdb8%22%2C%22spaceId%22%3A%220dc181f3-b6ed-8156-acb6-000345374ef5%22%7D%7D"></file>
 2. A more recent workshop; materials at [https://github.com/kartva/algorithmic](https://github.com/kartva/algorithmic)
-	<unknown url="https://www.notion.so/282181f3b6ed8048b84ad07591377573#30a181f3b6ed80f885a3d1546d3561e0" alt="bookmark"/>
+	<unknown url="https://app.notion.com/p/282181f3b6ed8048b84ad07591377573#30a181f3b6ed80f885a3d1546d3561e0" alt="bookmark"/>
 3. Older workshops include [Shaders](https://events.purduehackers.com/events/workshops/shaders/2024), [Interpreters](https://events.purduehackers.com/events/workshops/interpreters/2024), and [Fine-Tuning LLMs](https://events.purduehackers.com/events/workshops/finetuning-llms).
 4. [This thread ](https://discord.com/channels/772576325897945119/809628073896443904/1467620649760591964)has a bunch of workshop ideas:
 	- DJing
