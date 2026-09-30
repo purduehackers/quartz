@@ -119,4 +119,13 @@ Host server.purduehackers.com
 ## Installing packages {toggle="true"}
 	If you need packages installed system-wide, ask in Discord. You can ping the `@Server admins` role.
 	Use `dnf search` to search for packages. The system is running Rocky Linux 9 with EPEL (Extra Packages for Enterprise Linux) enabled. It’s helpful if you can tell us the exact package to install rather than something generic like “I want a C++ compiler.”
-<empty-block/>
+## Multi-user projects {toggle="true"}
+	If you have a project you want multiple users to have access to, we have a feature for that: *project accounts*!
+	A project account is a special type of user account on the server. For example, project “foo” might have a project account named `p-foo`. Its home directory is `/proj/foo`.
+	Users can then be added to the `p-foo` project group. Users in this group will be allowed to run commands as the `p-foo` account by using the `sudo` command:
+		- `sudo -u p-foo -i` logs in to a shell session as `p-foo`
+		- `sudo -u p-foo <command>` runs `<command>` as `p-foo`
+	Even without running commands as the project account, members of the project group can access the `/proj/foo` directory. The intention is that you access the files in this directory directly, and only use the `p-foo` user if you need to run a service relating to the project. For example, the Purdue Hackers Webring may run as a [systemd user service](/p/3ea181f3b6ed80d6ae04cde567533613?pvs=25#3ea181f3b6ed80c0bdf7c9a6a6f97069) under the `p-webring` project account.
+	Disk quotas work differently for project accounts, too. The `/proj/foo` directory has a quota, rather than the quota being per-user like on `/home`. This means that no matter which user creates files under `/proj/foo`, they’ll all count towards the shared project disk quota, rather than each file counting towards the quota of the user who owns it.
+	To view your project quota, you can’t use the `quota` command like you might expect. Instead, `df -h /proj/foo` will show the quota and usage for the directory. Unfortunately the hard limit will not be shown, only the soft one. If this is an issue for you, ask server admins in Discord and we’ll come up with a way to view full quota information.
+	The project account `p-foo` would get subdomain [`foo.projects.purduehackers.com`](http://foo.projects.purduehackers.com) for wbe hosting.
