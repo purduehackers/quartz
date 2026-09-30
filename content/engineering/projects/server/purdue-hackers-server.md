@@ -129,3 +129,6 @@ Host server.purduehackers.com
 	Disk quotas work differently for project accounts, too. The `/proj/foo` directory has a quota, rather than the quota being per-user like on `/home`. This means that no matter which user creates files under `/proj/foo`, they’ll all count towards the shared project disk quota, rather than each file counting towards the quota of the user who owns it.
 	To view your project quota, you can’t use the `quota` command like you might expect. Instead, `df -h /proj/foo` will show the quota and usage for the directory. Unfortunately the hard limit will not be shown, only the soft one. If this is an issue for you, ask server admins in Discord and we’ll come up with a way to view full quota information.
 	The project account `p-foo` would get subdomain [`foo.projects.purduehackers.com`](http://foo.projects.purduehackers.com) for wbe hosting.
+## Virtual machines {toggle="true"}
+	Try to avoid creating virtual machines if possible. If you do need one, let the server admins know first.
+<empty-block/>
