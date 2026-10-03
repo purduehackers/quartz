@@ -87,10 +87,13 @@ Host server.purduehackers.com
 	“Public” means that this IP is reachable from the internet. There are firewall rules in place to make some port ranges internet-accessible and some accessible only from Purdue’s network.
 	Ports **10000-19999** are **open to the internet**. Ports **20000-29999** are open to **Purdue’s network only**. Ports outside these ranges are not open to the internet (they’re handled on a case-by-case basis, e.g. ports 80 and 443 are open to allow web traffic).
 	If you want to host a service that is internet-accessible, make it listen on a port in the first range. If you want to host a service that is open to Purdue’s network only, make it listen on a port in the second range. If you want to host a service that is accessible only from the server itself, you can choose any port, but make it listen on the address `127.0.0.1`, e.g. `127.0.0.1:12345`.
+	<callout icon="⚠️" color="yellow_bg">
+		Please **do not** host HTTP (web) services by making them listen on a port in the above ranges. This is insecure since traffic isn’t encrypted. See <mention-page url="https://app.notion.com/p/3ea181f3b6ed80d6ae04cde567533613#3ea181f3b6ed80ae9fc2e441cd2ab827">Web hosting</mention-page> for what to do instead.
+	</callout>
 	If you’re using a Podman container, the port you select inside the container doesn’t matter, but the port you forward that to on the host matters. E.g. if your service is listening on port 3000 in the container, you can use `-p 127.0.0.1:12345:3000` to expose this on port 12345 outside the container, but only bound to the local machine.
 ## Web hosting {toggle="true"}
 	There is a Caddy web server running on the server.
-	If you want to host a website on the server, you should do so through the central Caddy service. Essentially, web traffic comes in from the internet to Caddy, and Caddy passes it along to your service. Caddy handles things such as TLS certificates (the part that makes HTTPS secure), so you don’t have to worry about handling HTTPS on your end.
+	If you want to host a website (or any HTTP service) on the server, you should do so through the central Caddy web server. Essentially, web traffic comes in from the internet to Caddy, and Caddy passes it along to your service. Caddy handles things such as TLS certificates (the part that makes HTTPS secure), so your traffic is encrypted between the server and your users.
 	For static websites (i.e. ones with just static files and no running “back-end”), you can just put files in `~/www`. They will be served at `https://<your-username>.members.purduehackers.com`.
 	<callout icon="/icons/info-alternate_gray.svg" color="yellow_bg">
 		The `~/www` directory and its contents need specific permissions so that Caddy can access your files. If you get **HTTP 403** errors on your site, you can run `fix-my-www` to fix the permissions of your `~/www` directory.
