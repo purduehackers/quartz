@@ -67,6 +67,7 @@ Host server.purduehackers.com
 	### Storage
 	You have a storage quota of **5 GiB** in your home directory. You can exceed this limit and use up to **10 GiB** for **1 week**.
 	If you need more storage, e.g. for a specific project, we can create a project directory for you. Just let us know how much you need and for how long.
+	You can check your available space using the \`
 	### Memory
 	There is no limit on the amount of memory you can use. However, there are some settings which control what happens when multiple users/services want to use more memory than is available.
 	You have a “protected” amount of memory, which is **2 GiB**. If your user is using less than 2 GiB, the system will try to reclaim memory from other users first. It will prioritize those whose memory usage is highest.
