@@ -134,4 +134,3 @@ Host server.purduehackers.com
 	The project account `p-foo` would get subdomain [`foo.projects.purduehackers.com`](http://foo.projects.purduehackers.com) for wbe hosting.
 ## Virtual machines {toggle="true"}
 	Try to avoid creating virtual machines if possible. If you do need one, let the server admins know first.
-<empty-block/>
