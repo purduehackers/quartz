@@ -8,4 +8,4 @@ Clubs & Organizations Outreach is an initiative to help Purdue Hackers interact 
 ## Key Information
 - **Status**: Active
 - **Maintainer**: Ray
-<page url="https://www.notion.so/309181f3b6ed81af9c07d1211ad89128">Initial Contact Playbook</page>
+<page url="https://app.notion.com/p/309181f3b6ed81af9c07d1211ad89128">Initial Contact Playbook</page>
