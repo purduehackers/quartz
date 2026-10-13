@@ -19,3 +19,5 @@ title: "Server admin guide"
 	Note that the LV mounted on `/proj` only has 64 GiB of space, so large projects will need their own LV created and mounted manually.
 # Adding users to project groups {toggle="true"}
 	Use `sudo manage-users add-to-project <project> <user>`.
+# Reloading firewall rules {toggle="true"}
+	Podman relies on firewall rules to handle port publishing for rootful containers, so after making changes to the firewall (e.g. with `sudo firewall-cmd --reload`), run `sudo podman network reload -a` to re-create all Podman network configuration.
