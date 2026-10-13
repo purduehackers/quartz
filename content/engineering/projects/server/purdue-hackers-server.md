@@ -116,7 +116,7 @@ Host server.purduehackers.com
 		This is the easiest, as it follows the exact same workflow as when you run the task in your shell. However it doesn’t take care of collecting logs or restarting the service if it fails.
 	2. Create a systemd service running as your user.
 		This is the most robust option. Systemd is a service manager which handles starting your task, monitoring it, collecting and storing logs, and optionally restarting it if it fails.
-		Note that you’ll need to run `loginctl enable-linger` once to allow systemd to run your services when you’re not logged in.
+		Note that you’ll need to run `loginctl enable-linger $USER` once to allow systemd to run your services when you’re not logged in.
 	3. Have us run a system-level systemd service.
 		This should be used for services which may be useful to multiple users, e.g. a database like PostgreSQL or MySQL, as multiple users can connect to one instance rather than each having to run their own.
 		If you want a service which can be used by other users as well, let us know and we’ll set it up.
@@ -130,8 +130,7 @@ Host server.purduehackers.com
 		- `sudo -u p-foo -i` logs in to a shell session as `p-foo`
 		- `sudo -u p-foo <command>` runs `<command>` as `p-foo`
 	Even without running commands as the project account, members of the project group can access the `/proj/foo` directory. The intention is that you access the files in this directory directly, and only use the `p-foo` user if you need to run a service relating to the project. For example, the Purdue Hackers Webring may run as a [systemd user service](/p/3ea181f3b6ed80d6ae04cde567533613?pvs=25#3ea181f3b6ed80c0bdf7c9a6a6f97069) under the `p-webring` project account.
-	Disk quotas work differently for project accounts, too. The `/proj/foo` directory has a quota, rather than the quota being per-user like on `/home`. This means that no matter which user creates files under `/proj/foo`, they’ll all count towards the shared project disk quota, rather than each file counting towards the quota of the user who owns it.
-	To view your project quota, you can’t use the `quota` command like you might expect. Instead, `df -h /proj/foo` will show the quota and usage for the directory. Unfortunately the hard limit will not be shown, only the soft one. If this is an issue for you, ask server admins in Discord and we’ll come up with a way to view full quota information.
+	Projects get their own quotas. When you run `sudo checkquota`, it’ll print the quotas for all projects you’re a member of in addition to your user quota.
 	The project account `p-foo` would get subdomain [`foo.projects.purduehackers.com`](http://foo.projects.purduehackers.com) for wbe hosting.
 ## Virtual machines {toggle="true"}
 	Try to avoid creating virtual machines if possible. If you do need one, let the server admins know first.
