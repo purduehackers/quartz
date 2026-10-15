@@ -2,5 +2,6 @@
 title: "Purdue Hackers/Hive Makerspace"
 ---
 
-Room #(270/280?)<br>
+Room 280N BHEE
+<br>
 <empty-block/>
