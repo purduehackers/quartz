@@ -20,3 +20,4 @@ title: "Server admin guide"
 	Use `sudo manage-users add-to-project <project> <user>`.
 # Reloading firewall rules {toggle="true"}
 	Podman relies on firewall rules to handle port publishing for rootful containers, so after making changes to the firewall (e.g. with `sudo firewall-cmd --reload`), run `sudo podman network reload -a` to re-create all Podman network configuration.
+<empty-block/>
