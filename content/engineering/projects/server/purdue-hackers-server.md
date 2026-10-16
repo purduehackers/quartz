@@ -31,7 +31,7 @@ The server is a Linux machine which Purdue Hackers members can use to run experi
 </tr>
 <tr>
 <td>Hostname</td>
-<td>hackers.student-orgs.purdue.edu</td>
+<td>phack.sh</td>
 </tr>
 </table>
 # Rules
@@ -48,19 +48,19 @@ The server is a Linux machine which Purdue Hackers members can use to run experi
 ## Accessing the server {toggle="true"}
 	There are two main ways to access the server.
 	### Web console
-	Visit [https://server.purduehackers.com](https://server.purduehackers.com) for a web console. You can select the **Terminal** tab to get a shell.
+	Visit [https://phack.sh](https://phack.sh) for a web console. You can select the **Terminal** tab to get a shell.
 	### SSH
 	You can use Secure Shell (SSH) to log in to the server.
 	The SSH service is listening on ports 22 and 10022. Port 22 is blocked by Purdue if you’re outside of Purdue’s network, but 10022 should always work.
 	```bash
-ssh -p 10022 <user>@server.purduehackers.com
+ssh -p 10022 <user>@https://phack.sh
 	```
-	You can add an entry in `~/.ssh/config` on your client device so you don’t have to specify the port every time. If you add the below, you can just run `ssh server.purduehackers.com`.
+	You can add an entry in `~/.ssh/config` on your client device so you don’t have to specify the port every time. If you add the below, you can just run `ssh phack.sh`.
 	```plain text
-Host server.purduehackers.com
+Host phack.sh
 	User <user>
 	Port 10022
-	Hostname server.purduehackers.com
+	Hostname phack.sh
 	```
 ## Resource limits {toggle="true"}
 	Your user account has resource limits, in order to try to avoid one user starving others of resources.
@@ -95,7 +95,7 @@ Host server.purduehackers.com
 ## Web hosting {toggle="true"}
 	There is a Caddy web server running on the server.
 	If you want to host a website (or any HTTP service) on the server, you should do so through the central Caddy web server. Essentially, web traffic comes in from the internet to Caddy, and Caddy passes it along to your service. Caddy handles things such as TLS certificates (the part that makes HTTPS secure), so your traffic is encrypted between the server and your users.
-	For static websites (i.e. ones with just static files and no running “back-end”), you can just put files in `~/www`. They will be served at `https://<your-username>.members.purduehackers.com`.
+	For static websites (i.e. ones with just static files and no running “back-end”), you can just put files in `~/www`. They will be served at `https://<your-username>.phack.sh`.
 	<callout icon="/icons/info-alternate_gray.svg" color="yellow_bg">
 		The `~/www` directory and its contents need specific permissions so that Caddy can access your files. If you get **HTTP 403** errors on your site, you can run `fix-my-www` to fix the permissions of your `~/www` directory.
 	</callout>
@@ -104,7 +104,7 @@ Host server.purduehackers.com
 		<details>
 		<summary>**Reverse proxy & custom domain example**</summary>
 			Let’s say you’re running a Node.js application that listens on port 3000. You want to publish this to the internet as your.domain.com.
-			First, you’d set a CNAME DNS record for your domain with a value of [`server.purduehackers.com`](http://server.purduehackers.com). This means when clients look up your domain, the IP address they’ll get is whatever IP address server.purduehackers.com points to.
+			First, you’d set a CNAME DNS record for your domain with a value of `phack.sh`. This means when clients look up your domain, the IP address they’ll get is whatever IP address phack.sh points to.
 			Now when someone visits [your.domain.com](http://your.domain.com), the request will come to the Caddy web server. We will add a bit of configuration to Caddy to tell it to handle requests for your.domain.com and to reverse proxy to port 3000. So when such a request comes in, Caddy will handle the HTTPS security, then forward the request using plain HTTP to your Node.js service on port 3000. When your service responds, Caddy will send the response back to the original client over HTTPS.
 			You don’t have to do both custom domain and reverse proxying at once. You can do either alone or both.
 		</details>
@@ -131,6 +131,6 @@ Host server.purduehackers.com
 		- `sudo -u p-foo <command>` runs `<command>` as `p-foo`
 	Even without running commands as the project account, members of the project group can access the `/proj/foo` directory. The intention is that you access the files in this directory directly, and only use the `p-foo` user if you need to run a service relating to the project. For example, the Purdue Hackers Webring may run as a [systemd user service](/p/3ea181f3b6ed80d6ae04cde567533613?pvs=25#3ea181f3b6ed80c0bdf7c9a6a6f97069) under the `p-webring` project account.
 	Projects get their own quotas. When you run `sudo checkquota`, it’ll print the quotas for all projects you’re a member of in addition to your user quota.
-	The project account `p-foo` would get subdomain [`foo.projects.purduehackers.com`](http://foo.projects.purduehackers.com) for wbe hosting.
+	The project account `p-foo` would get subdomain `foo.phack.sh` for wbe hosting.
 ## Virtual machines {toggle="true"}
 	Try to avoid creating virtual machines if possible. If you do need one, let the server admins know first.
