@@ -17,7 +17,7 @@ title: "Projects"
 <page url="https://app.notion.com/p/282181f3b6ed80e6affeec36389c5714">The Sign</page>
 <page url="https://app.notion.com/p/282181f3b6ed80ea81bcdf49332333ca">Wack Hacker</page>
 <page url="https://app.notion.com/p/3ea181f3b6ed80bb8091cb22a6cb7fa2">Server</page>
-<empty-block/>
+<page url="https://app.notion.com/p/3fc181f3b6ed80b6a073f00f15b9a199">Checkpoints Site</page>
 <page url="https://app.notion.com/p/309181f3b6ed8144aa05da076109e291">Passports</page>
 <page url="https://app.notion.com/p/309181f3b6ed81b59d3ede54e3919f8b">Site</page>
 <page url="https://app.notion.com/p/309181f3b6ed813a935bfa3f37cbb523">Wack Hacker Bot</page>
@@ -34,3 +34,4 @@ title: "Projects"
 <page url="https://app.notion.com/p/309181f3b6ed81e8ac32d8166673c02e">Lightning Time</page>
 <page url="https://app.notion.com/p/309181f3b6ed818e952ddd03d7d80a86">Vulcan</page>
 <page url="https://app.notion.com/p/3cb181f3b6ed80118f67c20494ec067b">HIVE Makerspace</page>
+<empty-block/>
