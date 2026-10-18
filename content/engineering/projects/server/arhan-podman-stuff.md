@@ -18,8 +18,6 @@ The rough equivalent is:
 ```javascript
 [Unit]
 Description=FreshRSS Quadlet
-Wants=network-online.target
-After=network-online.target
 
 [Container]
 Image=freshrss/freshrss:edge
