@@ -134,3 +134,15 @@ Host phack.sh
 	The project account `p-foo` would get subdomain `foo.phack.sh` for wbe hosting.
 ## Virtual machines {toggle="true"}
 	Try to avoid creating virtual machines if possible. If you do need one, let the server admins know first.
+## PostgreSQL databases {toggle="true"}
+	There is a PostgreSQL 18 database cluster running on phack.sh.
+	Instead of having to run a separate PostgreSQL cluster for your own applications, you can create a database in the system-wide cluster. To initialize your PostgreSQL user and database, use the following command:
+	```plain text
+$ sudo dbmgr init
+	```
+	This will create a PostgreSQL user with your username, as well as a database with your username.
+	You can connect to your database from the CLI by just running `psql`. This connects over the local UNIX domain socket, so PostgreSQL can see which user is running the command and thus can automatically log in as your user and connect to your database.
+	You can also connect to PostgreSQL over TCP, e.g. if you want to connect from inside a container or from a different host. PostgreSQL is listening on TCP port 5432 and requires the use of TLS (to make sure data is encrypted in transit). You can log in using your username and password. You’ll have to set your password at least once using the following command:
+	```plain text
+$ psql -c '\password'
+	```
