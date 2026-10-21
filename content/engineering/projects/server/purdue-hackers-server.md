@@ -146,3 +146,8 @@ $ sudo dbmgr init
 	```plain text
 $ psql -c '\password'
 	```
+	<callout icon="/icons/info-alternate_gray.svg" color="blue_bg">
+		**A note on permissions:**
+		By default, PostgreSQL databases allow any user to connect, and the `public` schema in the database is accessible to any user. The `initdb` script removes these defaults, so only you can connect to your database, and even if you grant other users permission to connect, they cannot access the `public` schema unless you grant explicit permission for that, too.
+		See [5.8. Privileges](https://phack.sh/docs/postgresql/ddl-priv.html) for more information.
+	</callout>
