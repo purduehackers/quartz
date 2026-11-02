@@ -18,14 +18,14 @@ Sticker Cutter (either):
 - [ ] [https://www.brother-usa.com/p/cutting-machines/SDX85](https://www.brother-usa.com/p/cutting-machines/SDX85)
 - [ ] [https://www.silhouetteamerica.com/silhouette-cameo-5-alpha](https://www.silhouetteamerica.com/silhouette-cameo-5-alpha)
 ## Storage/tables
-- [ ] Printer rack:<br>[https://www.homedepot.com/p/Husky-4-Shelf-Metal-Industrial-Duty-Freestanding-Garage-Storage-Shelving-Unit-in-Black-77-in-W-x-72-in-H-x-24-in-D-N2W772472W4B/333882209](https://www.homedepot.com/p/Husky-4-Shelf-Metal-Industrial-Duty-Freestanding-Garage-Storage-Shelving-Unit-in-Black-77-in-W-x-72-in-H-x-24-in-D-N2W772472W4B/333882209)
-- [ ] 3'x9' table preferably with cabinets/drawers on one side
+- [x] Printer rack:<br>[https://www.homedepot.com/p/Husky-4-Shelf-Metal-Industrial-Duty-Freestanding-Garage-Storage-Shelving-Unit-in-Black-77-in-W-x-72-in-H-x-24-in-D-N2W772472W4B/333882209](https://www.homedepot.com/p/Husky-4-Shelf-Metal-Industrial-Duty-Freestanding-Garage-Storage-Shelving-Unit-in-Black-77-in-W-x-72-in-H-x-24-in-D-N2W772472W4B/333882209)
+- [x] 3'x9' table preferably with cabinets/drawers on one side
 - [ ] Skadis pegboard x3: [https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
 - [ ] Above desk shelves (need to find link)
-- [ ] [https://www.homedepot.com/p/Husky-Heavy-Duty-61-in-W-x-22-in-D-15-Drawer-Matte-Black-Mobile-Workbench-Cabinet-with-Solid-Wood-Top-H61MWC15HD-TL/333936181](https://www.homedepot.com/p/Husky-Heavy-Duty-61-in-W-x-22-in-D-15-Drawer-Matte-Black-Mobile-Workbench-Cabinet-with-Solid-Wood-Top-H61MWC15HD-TL/333936181)
+- [x] [https://www.homedepot.com/p/Husky-Heavy-Duty-61-in-W-x-22-in-D-15-Drawer-Matte-Black-Mobile-Workbench-Cabinet-with-Solid-Wood-Top-H61MWC15HD-TL/333936181](https://www.homedepot.com/p/Husky-Heavy-Duty-61-in-W-x-22-in-D-15-Drawer-Matte-Black-Mobile-Workbench-Cabinet-with-Solid-Wood-Top-H61MWC15HD-TL/333936181)
 ## Tools
 General
-- [ ] I-fix-it kit/precision screwdriver set
+- [x] I-fix-it kit/precision screwdriver set
 - [ ] Flush cutters:
 	[https://www.amazon.com/Cutter-Lightweight-Klein-Tools-D275-5/dp/B000GTMZHG](https://www.amazon.com/Cutter-Lightweight-Klein-Tools-D275-5/dp/B000GTMZHG/ref=sr_1_1?sr=8-1)
 - [ ] Pliers 
@@ -68,13 +68,13 @@ Electronics:
 - [x] Heatshrink
 - [x] Bunch of tape
 - [x] Superglue
-- [ ] Flux
+- [x] Flux
 	[https://www.amazon.com/SRA-Soldering-Electronics-Lead-Free-Electrical/dp/B008ZIV85A](https://www.amazon.com/SRA-Soldering-Electronics-Lead-Free-Electrical/dp/B008ZIV85A)
-- [ ] Sandpaper
+- [x] Sandpaper
 	[https://www.amazon.com/Fandeli-36100-Assorted-Multipurpose-Sandpaper/dp/B07CNKSLY3](https://www.amazon.com/Fandeli-36100-Assorted-Multipurpose-Sandpaper/dp/B07CNKSLY3)
 - [ ] IPA
 	[https://www.amazon.com/ForPro-Professional-Collection-Unadulterated-Concentrated/dp/B00DT52Y98](https://www.amazon.com/ForPro-Professional-Collection-Unadulterated-Concentrated/dp/B00DT52Y98)
-- [ ] Filament PLA:<br>[https://us.elegoo.com/products/elegoo-10kg-pla-filament-1-75mm-fdm-3d-printer-filament-1<br>](https://us.elegoo.com/products/elegoo-10kg-pla-filament-1-75mm-fdm-3d-printer-filament-1)[https://us.elegoo.com/products/pla-filament-1-75mm-4-colors-10kg](https://us.elegoo.com/products/pla-filament-1-75mm-4-colors-10kg)
+- [x] Filament PLA:<br>[https://us.elegoo.com/products/elegoo-10kg-pla-filament-1-75mm-fdm-3d-printer-filament-1<br>](https://us.elegoo.com/products/elegoo-10kg-pla-filament-1-75mm-fdm-3d-printer-filament-1)[https://us.elegoo.com/products/pla-filament-1-75mm-4-colors-10kg](https://us.elegoo.com/products/pla-filament-1-75mm-4-colors-10kg)
 ## Hardware
 - [x] Electronics parts kit (potentially get more)
 - [ ] M3 heatset inserts
