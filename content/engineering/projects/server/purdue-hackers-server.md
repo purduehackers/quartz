@@ -53,7 +53,7 @@ The server is a Linux machine which Purdue Hackers members can use to run experi
 	You can use Secure Shell (SSH) to log in to the server.
 	The SSH service is listening on ports 22 and 10022. Port 22 is blocked by Purdue if you’re outside of Purdue’s network, but 10022 should always work.
 	```bash
-ssh -p 10022 <user>@https://phack.sh
+ssh -p 10022 <user>@phack.sh
 	```
 	You can add an entry in `~/.ssh/config` on your client device so you don’t have to specify the port every time. If you add the below, you can just run `ssh phack.sh`.
 	```plain text
