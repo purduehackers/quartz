@@ -17,12 +17,27 @@ You can come in during the times listed in the #makerspace channel in Discord, o
 [https://print.purduehackers.com/](https://print.purduehackers.com/)
 Currently only PLA and some PETG. You can bring in your own filaments (TPU, ABS, ASA), but you need to ask Neel.
 H2D Pro: 
-- Max print size: 320 x 320 x 325mm
+- Max print size: 320 x 320 x 325 mm
 - Dual nozzle(2 material) + AMS (multicolor)
 - Enclosed
+Prusa Core One:
+- Max print size: 250 × 220 × 270 mm
+- Enclosed
+## Electronics
+Tools:
+- Soldering irons
+- Hot air station
+- JST & ferrule crimpers
+- Wire stripper, cutters, tweezers
+We also have microcontrollers, breadboards, extra wire, and other components for prototyping
+## Tools
+- Drill
+- Dremel
+- Precision screwdriver set (iFixit)
+- Allen keys, socket set, pliers, files
 ## Storing Projects
 We have storage lockers that you can store projects in. Ask Neel to use one. 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/0dc181f3-b6ed-8156-acb6-000345374ef5/48057998-b726-47f7-b52f-0bbb9d626f8a/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SUUAXGX3%2F20261020%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261020T170249Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCnIxC3IuP%2BFySaeq%2BZbPFluvqRv6QdAXV2kkvMPjMwswIhANv%2FVsys5rHE78U%2ByYOVukmonyNu%2FAYagTl5vM9kuh9BKv8DCEgQABoMNjM3NDIzMTgzODA1Igw10%2Bs3TShsQ6WsoZoq3APyeWDUXJiW2uLm59N9BFHjCk8uEawImd8jjn5CfOEJSIoSUO9FKxc3lZXwY%2BnbYTO5RN1O4Tu%2F4YC%2BehkPsH5v2%2B4DSNRkKkdxd%2F93Fb1DjXtbygrEwsCt4z10if5QBoajX7BSf1seIWTTl4jKFYtG3r0D1yV1NC%2BL2w2SZNgFRfqdDSQ6MZ3QRuIfZqFdzUV70GrWrg%2BukNFSyqAXiTfEhOOx%2BC2CjQbzyV6guo6m3bU%2B%2BA%2BAcmqMN0BrOqlAX0mMy2P4SLNu21uzKSHlDb96zE2amGlT0TZ2fclG9XDWEkT2zjEypnP4sK88YY7Y7Q9KuTJSeMm2s35z365A7UjIVxIftbbAQEwywk1CzSAMKCMqC8lKGDICThTkl%2FYoW5RIXzezymLki4wK4QdeXejKeseLnqdRrMQFrJfXF7EyJGuFOfLpHri7gHCeUa3%2FH3E1UrZi%2BzaeagbCmuw9iW2yLFU3zZygwB9af0OHuFb91hbWtSilgGRmscL3IfgwlXXroWapTWptxLe7G4Tummc2WGEYAK5p%2BlyKaw%2FC7R%2FCm6AGG2VLGM8dfKPxEgxjMTgQokxVKo3%2BWyMiXVCHC%2BXkuHraVuY9GdzyTxnUT20rhBzxgOlcwl3f0PqIaDDkkt7WBjqkASIL18pnw%2FXC4%2BmbIdjx%2F%2FMnO2V0RUT4UKFnVu7QRx1AkqXOifTHaAVgSLAPCSWbssUUbY%2B783oEwRFURD%2B5%2F8JDLIP4u6VL6%2B4QEj6ee%2Bp9jkPTyUF1zGqL%2BmhKclD%2FB2zZjeKyBsI6ga9ReYs9rWZO%2FrRlrhSjlqJe7elQ0Vk4meUQiSxfQnM%2BtClSfjhIDx64TiMZhhbhllQWkOvletsq1n1e&X-Amz-Signature=4afcb426629eb88bf89ed10f1ac7f43e61c8f2733a7c9d122b0f66e9c8b9e764&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject#notion_record=block.3fd181f3-b6ed-807e-9a21-f77dae2747ac.0dc181f3-b6ed-8156-acb6-000345374ef5)
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/0dc181f3-b6ed-8156-acb6-000345374ef5/48057998-b726-47f7-b52f-0bbb9d626f8a/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQP4H5VS%2F20261109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261109T190249Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGEaCXVzLXdlc3QtMiJHMEUCIHsjYIpwtwoKbMo4Kno7sWerdOwkPOd8rG7prRB6cK3kAiEAgXnyIWCAL2Lqd0tl9SjiMc6RNZqtxKLVP6QrcIacAh0q%2FwMIKRAAGgw2Mzc0MjMxODM4MDUiDPxNzVOSEWi7vxaJySrcA4afHj7A0y%2BT7Y5xVMikM5bDQIFgHTceJsFkRjmuBuSD%2FBhG4pYJfBXem%2BfDIo7l3wwQOqckZfO0nqk6hloy%2BIvVtc%2BnpIAW2cVhmS4DRvmdrqDjHq7A9sGP1APJl51ayEI4FQQXVWzxRMimkZqOVcyGIxW9qTr5%2FhQB3wcRFW6rK1Iqlqh6LIvot0jolrUiBX3sdBegmVdZCwHIQBmaodec3%2BeTRR4HxBmvXIdKTzG1C0pg1zWmSHbVKfu2iE0M0yz2ii6q%2Bq6j1JJE2zOdcqGKJ9FMtWK3qcMelQ%2FYLyntNMCBH8WKJbmSWf1VOwGc9ml8tlxd6%2B8I0WZFmHcfiEFp93Ymsba9gOP5OTo%2B%2B8I0f4s5P9odL7X%2BdyX5qvsdEXys5CRUbTpxP6WzU02nXZOozb27AosOh%2BUVglp2Ex%2FF31S0%2BQKtvX1skE0r0fa66slZDawbxz6rUqrhLF0okkMv6JW7XYohujloT0ZZhIC7UJZYKOk1tjcvptawB%2FE%2Fw0aMyKIyZe%2FQrhT0%2FwSt7Ks%2BYImt0OzRhhXYBxnuQmuWe4RFYymuuYzvEie1Apo2mzl5%2B8N8c%2BJD%2BBrNXy%2B%2FynMpL3YO2JmBUqokCcJbudElx78atqTcgEM6nhWhML7rx9cGOqUBMJocBgPAjK7A5iNJtKzgwbz1uLJOJ7D4nzl%2BggdQ54g9UBzQWAT0wVFq2uOgRCxndeCFFdFyZvGg5BFFdcU60iMeX3%2BrPPNRTAj0NGIM56ZozOdM9KWuAwaJdja61qEYO%2B4Ly1WnUjkscAjI6WcwdNTkkZc2ouFVg7GE4szaJMhlkTZyb9jxxi8ygh%2Fi7CcH3pq1ndJ%2FQGqts02wKOMpSvGecNYa&X-Amz-Signature=e327e4437df814801fdc6cd3f1b96a3b917a18c18c44614b965cf62afdfd895d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject#notion_record=block.3fd181f3-b6ed-807e-9a21-f77dae2747ac.0dc181f3-b6ed-8156-acb6-000345374ef5)
 <empty-block/>
 <empty-block/>
 <empty-block/>
