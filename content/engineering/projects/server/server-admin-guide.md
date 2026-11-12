@@ -1,5 +1,5 @@
 ---
-title: "Server admin guide"
+title: "-Server admin guide"
 ---
 
 # Creating new user accounts {toggle="true"}
@@ -8,7 +8,7 @@ title: "Server admin guide"
 	</callout>
 	Use `sudo manage-users create` to add a new user account. Run with `--help` to see options.
 	<callout icon="⚠️" color="yellow_bg">
-		If the command fails, notify <mention-user url="user://05bbe8bd-8617-4aef-b990-0bcd7c353939"/> and **include the output** of the command.
+		If the command fails, notify <mention-user url="user://05bbe8bd-8617-4aef-b990-0bcd7c353939/kdkasad@gmail.com">Kian Kasad</mention-user> and **include the output** of the command.
 	</callout>
 	This will create the user account, create a Caddy drop-in config file to set up their web hosting, create their `~/www` directory with the right FACLs, and if provided, populate their `~/.ssh/authorized_keys`.
 	The user will get a random initial password, which will be logged by the `manage-users` script. Give this to them. PAM will require them to change it upon first login.
