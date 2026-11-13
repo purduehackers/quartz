@@ -9,6 +9,7 @@ title: "Projects"
 <page url="https://app.notion.com/p/282181f3b6ed8075957adaa3a2361923">FinanceBRO</page>
 <page url="https://app.notion.com/p/282181f3b6ed80a2973bd4bc445fb303">Hack Night Dashboard</page>
 <page url="https://app.notion.com/p/282181f3b6ed80f3b19bf6815e529f08">Id</page>
+<page url="https://app.notion.com/p/417181f3b6ed810fa592d31873fcfafb">Directory</page>
 <page url="https://app.notion.com/p/282181f3b6ed8010b9e4df9b04d5a946">Lightning Time</page>
 <page url="https://app.notion.com/p/282181f3b6ed80b1b0c6ff73b35bfa48">Passports</page>
 <page url="https://app.notion.com/p/282181f3b6ed801ba248e56e2cb2dabf">Phone Bell</page>
