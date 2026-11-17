@@ -20,4 +20,5 @@ At every hour such as **9:00, 10:00, and 11:00 PM** announce **5** minutes prior
 ## Countdown
 At **11:50 PM **start calling students downstairs. At exactly **11:58 PM** start countdown. See <mention-page url="https://app.notion.com/p/41b181f3b6ed802ebbeef53e151801a9">Countdown</mention-page> for more information.
 ## Checkpoints
-Checkpoints is an in
+Checkpoints is an integral part to Hack Night. See <mention-page url="https://app.notion.com/p/41b181f3b6ed804b8a78ffab6c799709">Checkpoints</mention-page>
+Call up each person to checkpoint to start off with and after each person is done. Be sure to compliment and tell them how interesting their project was. At the end when there are no more people in the queue ask and encourage for any more people to checkpoint. If there are no more then announce the end of checkpoints and say Hack Night goes till whenever the last person is here.

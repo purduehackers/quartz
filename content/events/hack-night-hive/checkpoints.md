@@ -14,7 +14,10 @@ Checkpoints (formerly known as Demos) occur after the [Countdown](https://www.no
 - [ ] Have another organizer start recording each presentation.
 ## Running Checkpoints
 Announce that Checkpoints will begin immediately after the Countdown ends. Members will start to gather around the front of the room. Have organizers make them form a line.
-Begin the Checkpoints session. Members will come up to the front of the room and connect to the projector to show off their work. They will have 2 minutes to present their work. This is strictly enforced.
+Open [https://checkpoints.purduehackers.com/](https://checkpoints.purduehackers.com/) and have:
+1. Right front monitor be the Host page
+2. Back monitor be the Timer page
+Begin the Checkpoints session on the Admin page. Members will come up to the front of the room and connect to the projector to show off their work. They will have 2 minutes to present their work. This is strictly enforced.
 Encourage all members to participate in Checkpoints! If someone is hesitant, ask them to share something small. This is a great way to get new members involved!
 ## Teardown
 Once all members have presented, thank everyone for participating and encourage them to continue working on their projects; remind them that Hack Night keeps going until the last person leaves. Return the speaker to the Hack Cart.
