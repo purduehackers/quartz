@@ -21,3 +21,4 @@ Begin the Checkpoints session on the Admin page. Members will come up to the fro
 Encourage all members to participate in Checkpoints! If someone is hesitant, ask them to share something small. This is a great way to get new members involved!
 ## Teardown
 Once all members have presented, thank everyone for participating and encourage them to continue working on their projects; remind them that Hack Night keeps going until the last person leaves. Return the speaker to the Hack Cart.
+<empty-block/>

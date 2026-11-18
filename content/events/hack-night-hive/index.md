@@ -10,6 +10,7 @@ Hack Night has a slightly strict schedule, with members working on projects and 
 - **9:00 PM**: First Session
 - **10:00 PM**: First Session
 - **11:00 PM**: Second Session
+- **11:30 PM**: Checkpoint preparations
 - **11:59 PM**: Countdown to Midnight
 - **12:00 AM:** Checkpoints
 - **2:00 - 5:00 AM**: Teardown
